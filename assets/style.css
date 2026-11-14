@@ -163,8 +163,8 @@ table.t td.n,table.t th.n{text-align:right;font-family:MonoM;white-space:nowrap}
 
 /* ===== v2: accessibility, interactions, mobile ===== */
 :focus-visible{outline:3px solid var(--amb);outline-offset:2px;border-radius:6px}
-.skip{position:absolute;left:-999px;top:8px;background:var(--y);color:var(--ink);padding:10px 14px;border-radius:8px;z-index:100;font-family:PlexM}
-.skip:focus{left:12px}
+.skip{position:absolute;left:12px;top:8px;transform:translateY(-300%);background:var(--y);color:var(--ink);padding:10px 14px;border-radius:8px;z-index:100;font-family:PlexM}
+.skip:focus{transform:none}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 .ibtn{width:38px;height:38px;border-radius:10px;border:1px solid var(--line);background:#fff;display:inline-flex;align-items:center;justify-content:center;position:relative}
