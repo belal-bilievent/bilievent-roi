@@ -1,0 +1,1227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bilievent//Saudi Shows 2027//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Saudi exhibitions and conferences 2027 · Bilievent
+X-WR-TIMEZONE:Asia/Riyadh
+BEGIN:VEVENT
+UID:men-s-fabrics-and-accessories-exhibition-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270110
+SUMMARY:Men's Fabrics and Accessories Exhibition 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Retail\, lifestyle & sport. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.eyeofriyadh.com/events/details/mens-fabr
+ ics-and-accessories-exhibition-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-international-e-marketing-e-commerce-exhibition-sidmc@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270109
+SUMMARY:Saudi International E-Marketing & E-Commerce Exhibition (SIDMC)
+LOCATION:Jeddah\, Saudi Arabia
+DESCRIPTION:Marketing\, media & events. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.sidmc-sa.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:the-coffee-show-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270110
+SUMMARY:The Coffee Show 2027
+LOCATION:Jeddah Superdome\, Jeddah\, Saudi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates confirmed. Run it as p
+ art of the Bilievent programme: https://roi.bilievent.com/calendar.html S
+ ource: https://thecoffeeshow.sa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:automechanika-riyadh@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270114
+SUMMARY:Automechanika Riyadh
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Manufacturing & industry. Dates confirmed. Run it as part of t
+ he Bilievent programme: https://roi.bilievent.com/calendar.html Source: h
+ ttps://automechanika-riyadh.ksa.messefrankfurt.com/ksa/en.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:iktva-forum-exhibition-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270115
+SUMMARY:iktva Forum & Exhibition 2027
+LOCATION:Dhahran Expo\, Dammam\, Saudi Arabia
+DESCRIPTION:Energy\, water & mining. Dates to confirm with the organiser. 
+ Run it as part of the Bilievent programme: https://roi.bilievent.com/cale
+ ndar.html Source: https://atndr.com/guides/business-events-in-dammam
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:expo-expo-mena@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270115
+SUMMARY:Expo! Expo! MENA
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Marketing\, media & events. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.eyeofriyadh.com/events/details/expo-expo
+ -mena-1789944720
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:future-minerals-forum-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270116
+SUMMARY:Future Minerals Forum 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Energy\, water & mining. Dates confirmed. Run it as part of th
+ e Bilievent programme: https://roi.bilievent.com/calendar.html Source: ht
+ tps://www.futuremineralsforum.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:global-iot-congress-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270119
+SUMMARY:Global IoT Congress 2027
+LOCATION:The Garage\, KACST\, Riyadh\, Saudi Arabia
+DESCRIPTION:Technology\, AI & security. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://app.saudiframe.com/expo-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lubricants-additives-conference-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270120
+SUMMARY:Lubricants & Additives Conference 2027
+LOCATION:Sheraton Dammam\, Dammam\, Saudi Arabia
+DESCRIPTION:Energy\, water & mining. Dates to confirm with the organiser. 
+ Run it as part of the Bilievent programme: https://roi.bilievent.com/cale
+ ndar.html Source: https://atndr.com/guides/business-events-in-dammam
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:mesif-jeddah-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:MESIF Jeddah 2027
+LOCATION:Jeddah\, Saudi Arabia
+DESCRIPTION:Government\, finance & policy. Dates confirmed. Run it as part
+  of the Bilievent programme: https://roi.bilievent.com/calendar.html Sour
+ ce: https://www.mesifglobal.com/mesif-jeddah-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-grc-summit@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:World GRC Summit
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Technology\, AI & security. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.eventbrite.com/d/saudi-arabia/events/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2nd-annual-cranes-heavy-lifting-conference-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270122
+SUMMARY:2nd Annual Cranes & Heavy Lifting Conference 2027
+LOCATION:Sheraton Dammam\, Dammam\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://atndr.com/guides/business-events-in-dammam
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stormwater-and-wastewater-saudi-arabia-conference-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270122
+SUMMARY:Stormwater and Wastewater Saudi Arabia Conference 2027
+LOCATION:Hilton Jeddah\, Jeddah\, Saudi Arabia\, Jeddah\, Saudi Arabia
+DESCRIPTION:Energy\, water & mining. Dates to confirm with the organiser. 
+ Run it as part of the Bilievent programme: https://roi.bilievent.com/cale
+ ndar.html Source: https://www.eyeofriyadh.com/events/details/4nd-annual-s
+ tormwater-and-wastewater-saudi-arabia-conference
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wmiec-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270124
+SUMMARY:WMIEC Riyadh 2027
+LOCATION:RICEC\, Riyadh\, Saudi Arabia
+DESCRIPTION:Energy\, water & mining. Dates confirmed. Run it as part of th
+ e Bilievent programme: https://roi.bilievent.com/calendar.html Source: ht
+ tps://wmiec.com.sa/en/news/riyadh-hosts-wmiec-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:global-labor-market-conference@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270127
+SUMMARY:Global Labor Market Conference
+LOCATION:King Abdul Aziz International Conference Center\, Riyadh\, Saudi 
+ Arabia
+DESCRIPTION:Government\, finance & policy. Dates to confirm with the organ
+ iser. Run it as part of the Bilievent programme: https://roi.bilievent.co
+ m/calendar.html Source: https://www.eyeofriyadh.com/events/details/global
+ -labor-market-conference-1791791919
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:real-estate-future-forum-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270128
+SUMMARY:Real Estate Future Forum 2027
+LOCATION:Four Seasons Hotel Riyadh\, Riyadh\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://app.saudiframe.com/expo-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:superreturn-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270127
+SUMMARY:SuperReturn Saudi Arabia 2027
+LOCATION:Fairmont Riyadh\, Riyadh\, Saudi Arabia
+DESCRIPTION:Government\, finance & policy. Dates confirmed. Run it as part
+  of the Bilievent programme: https://roi.bilievent.com/calendar.html Sour
+ ce: https://informaconnect.com/superreturn-saudi-arabia/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:gprc-summit@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270128
+SUMMARY:GPRC Summit
+LOCATION:Hyatt Regency Riyadh Olaya\,\, Riyadh\, Saudi Arabia
+DESCRIPTION:Government\, finance & policy. Dates to confirm with the organ
+ iser. Run it as part of the Bilievent programme: https://roi.bilievent.co
+ m/calendar.html Source: https://www.eyeofriyadh.com/events/details/gprc-s
+ ummit-1791791433
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-franchise-expo-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270129
+SUMMARY:Saudi Franchise Expo Riyadh 2027
+LOCATION:THE ARENA RIYADH VENUE\, Riyadh\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://atndr.com/guides/business-events-in-riyadh
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:data-center-nation-riyadh@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Data Center Nation Riyadh
+LOCATION:RICEC\, Riyadh\, Saudi Arabia
+DESCRIPTION:Technology\, AI & security. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.datacenternation.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:utech-middle-east-foam-and-polyurethane-conference-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:UTECH Middle East Foam and Polyurethane Conference 2027
+LOCATION:Riyadh Marriott\, KSA\, Riyadh\, Saudi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.eyeofriyadh.com/events/details/utech-middl
+ e-east-foam-and-polyurethane-conference-2027-1791791310
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cityscape-global-2026-edition-moved@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270205
+SUMMARY:Cityscape Global (2026 edition\, moved)
+LOCATION:Riyadh Exhibition & Convention Center\, Malham\, Riyadh\, Saudi A
+ rabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://tradearabia.com/News/488603/Top-real-estate-
+ event-Cityscape-Global-postponed-to-February
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:middle-east-livestock-farming-expo-melfex@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270204
+SUMMARY:Middle East Livestock Farming Expo (MELFEX)
+LOCATION:RICEC Riyadh International Convention & Exhibition Center\, Riyad
+ h\, Saudi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates to confirm with the or
+ ganiser. Run it as part of the Bilievent programme: https://roi.bilievent
+ .com/calendar.html Source: https://www.tradefairdates.com/Middle+East+Liv
+ estock+Farming+Expo+%28MELFEX%29-M9325/Riyadh.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:rlc-global-forum@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270203
+SUMMARY:RLC Global Forum
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Government\, finance & policy. Dates to confirm with the organ
+ iser. Run it as part of the Bilievent programme: https://roi.bilievent.co
+ m/calendar.html Source: https://www.eventseye.com/fairs/c1_trade-shows_sa
+ udi-arabia.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-media-forum-fomex-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270204
+SUMMARY:Saudi Media Forum + FOMEX 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Marketing\, media & events. Dates confirmed. Run it as part of
+  the Bilievent programme: https://roi.bilievent.com/calendar.html Source:
+  https://saudimf.sa/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:global-ai-show-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270204
+SUMMARY:Global AI Show Riyadh 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Technology\, AI & security. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.eyeofriyadh.com/events/details/global-ai
+ -show-riyadh-2027-1791794253
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:future-hospitality-summit-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270323
+SUMMARY:Future Hospitality Summit Saudi Arabia 2027
+LOCATION:Mandarin Oriental Al Faisaliah\, Riyadh\, Saudi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates to confirm with the or
+ ganiser. Run it as part of the Bilievent programme: https://roi.bilievent
+ .com/calendar.html Source: https://atndr.com/guides/business-events-in-ri
+ yadh
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:restatex-riyadh-real-estate-exhibition-36th@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270325
+SUMMARY:Restatex Riyadh Real Estate Exhibition (36th)
+LOCATION:RICEC\, Riyadh\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://amlak.net.sa/en/108252/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:umrah-ziyarah-forum-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270324
+SUMMARY:Umrah & Ziyarah Forum 2027
+LOCATION:King Salman International Convention Center\, Madinah\, Saudi Ara
+ bia
+DESCRIPTION:Food\, agriculture & hospitality. Dates to confirm with the or
+ ganiser. Run it as part of the Bilievent programme: https://roi.bilievent
+ .com/calendar.html Source: https://www.eventseye.com/fairs/c1_trade-shows
+ _saudi-arabia.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jeddah-construct-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270325
+SUMMARY:Jeddah Construct 2027
+LOCATION:Jeddah Center for Exhibitions and Events\, Jeddah\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates confirmed. Run it as part of
+  the Bilievent programme: https://roi.bilievent.com/calendar.html Source:
+  https://www.dmgevents.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tourise-summit-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270326
+SUMMARY:TOURISE Summit 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates to confirm with the or
+ ganiser. Run it as part of the Bilievent programme: https://roi.bilievent
+ .com/calendar.html Source: https://www.tourise.com/en
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:livestock-future-expo@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270331
+SUMMARY:Livestock Future Expo
+LOCATION:RICEC\, Riyadh\, Saudi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates to confirm with the or
+ ganiser. Run it as part of the Bilievent programme: https://roi.bilievent
+ .com/calendar.html Source: https://www.eventseye.com/fairs/c1_trade-shows
+ _saudi-arabia.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:simec-saudi-international-marine-exhibition@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270331
+SUMMARY:SIMEC Saudi International Marine Exhibition
+LOCATION:RICEC\, Riyadh\, Saudi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates confirmed. Run it as p
+ art of the Bilievent programme: https://roi.bilievent.com/calendar.html S
+ ource: https://simec-expo.com/en/home/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cityscape-west-ksa-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270401
+SUMMARY:Cityscape West KSA 2027
+LOCATION:Jeddah Superdome\, Jeddah\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates confirmed. Run it as part of
+  the Bilievent programme: https://roi.bilievent.com/calendar.html Source:
+  https://cityscapewestksa.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:stm-saudi-travel-market-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+SUMMARY:STM - Saudi Travel Market 2027
+LOCATION:RICEC\, Riyadh\, Saudi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates confirmed. Run it as p
+ art of the Bilievent programme: https://roi.bilievent.com/calendar.html S
+ ource: https://www.stmksa.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:silmo-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270405
+SUMMARY:Silmo Saudi Arabia 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Healthcare & pharma. Dates to confirm with the organiser. Run 
+ it as part of the Bilievent programme: https://roi.bilievent.com/calendar
+ .html Source: https://cns.travel/en/saudi-arabia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cips-mena-procurement-and-supply-chain-futures-conference-an@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270409
+SUMMARY:CIPS MENA Procurement and Supply Chain Futures conference and awar
+ ds
+LOCATION:Mandarin Oriental Al Faisaliah\, Riyadh\, Saudi Arabia
+DESCRIPTION:Government\, finance & policy. Dates to confirm with the organ
+ iser. Run it as part of the Bilievent programme: https://roi.bilievent.co
+ m/calendar.html Source: https://www.eyeofriyadh.com/events/details/the-ci
+ ps-mena-excellence-in-procurement-supply-awards-1770538838
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:international-port-marine-development-conference@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270409
+SUMMARY:International Port & Marine Development Conference
+LOCATION:Jeddah Hilton\, Jeddah\, Saudi Arabia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.eyeofriyadh.com/events/details/international-
+ port-marine-development-conference-1758540019
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:real-estate-supply-chain-forum@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270409
+SUMMARY:Real Estate Supply Chain Forum
+LOCATION:Mandarin Oriental Al Faisaliah\, Riyadh\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.eyeofriyadh.com/events/details/rscforum-
+ com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-international-dental-conference-sidc-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270411
+SUMMARY:Saudi International Dental Conference (SIDC) 2027
+LOCATION:واجهة الرياض للمعارض\, Riyadh\, Saudi Arabia
+DESCRIPTION:Healthcare & pharma. Dates to confirm with the organiser. Run 
+ it as part of the Bilievent programme: https://roi.bilievent.com/calendar
+ .html Source: https://app.saudiframe.com/expo-calendar
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-auto-show-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270415
+SUMMARY:EV Auto Show Riyadh 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.eyeofriyadh.com/events/details/ev-auto-show-r
+ iyadh-2027
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:leap-2027-with-deepfest@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270416
+SUMMARY:LEAP 2027 (with DeepFest)
+LOCATION:Riyadh Exhibition & Convention Center\, Malham\, Riyadh\, Saudi A
+ rabia
+DESCRIPTION:Technology\, AI & security. Dates confirmed. Run it as part of
+  the Bilievent programme: https://roi.bilievent.com/calendar.html Source:
+  https://onegiantleap.com/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:human-capability-initiative-hci@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270414
+SUMMARY:Human Capability Initiative (HCI)
+LOCATION:King Abdulaziz International Conference Center\, Riyadh\, Saudi A
+ rabia\, Riyadh\, Saudi Arabia
+DESCRIPTION:Government\, finance & policy. Dates to confirm with the organ
+ iser. Run it as part of the Bilievent programme: https://roi.bilievent.co
+ m/calendar.html Source: https://www.eyeofriyadh.com/events/details/the-hu
+ man-capability-initiative-hci-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:riyadh-international-disputes-week-ridw@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270423
+SUMMARY:Riyadh International Disputes Week (RIDW)
+LOCATION:Hilton Riyadh Hotel Granada\, Riyadh\, Saudi Arabia
+DESCRIPTION:Government\, finance & policy. Dates to confirm with the organ
+ iser. Run it as part of the Bilievent programme: https://roi.bilievent.co
+ m/calendar.html Source: https://www.eyeofriyadh.com/events/details/riyadh
+ -international-disputes-week-ridw-1781071280
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:red-hat-summit-connect-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:Red Hat Summit: Connect Riyadh 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Technology\, AI & security. Dates confirmed. Run it as part of
+  the Bilievent programme: https://roi.bilievent.com/calendar.html Source:
+  https://www.redhat.com/en/summit/connect/emea/riyadh-2026
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cphi-middle-east-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270429
+SUMMARY:CPHI Middle East 2027
+LOCATION:Riyadh Exhibition & Convention Center\, Malham\, Riyadh\, Saudi A
+ rabia
+DESCRIPTION:Healthcare & pharma. Dates to confirm with the organiser. Run 
+ it as part of the Bilievent programme: https://roi.bilievent.com/calendar
+ .html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_city-Pr
+ ofessional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-plastics-petrochem-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270430
+SUMMARY:Saudi Plastics & Petrochem 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-print-pack-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270430
+SUMMARY:Saudi Print & Pack 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-smart-logistics-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270430
+SUMMARY:Saudi Smart Logistics 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_city-
+ Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:world-energy-congress-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270430
+SUMMARY:World Energy Congress 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Energy\, water & mining. Dates to confirm with the organiser. 
+ Run it as part of the Bilievent programme: https://roi.bilievent.com/cale
+ ndar.html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_cit
+ y-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:big-5-construct-saudi-2027-may@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270528
+SUMMARY:Big 5 Construct Saudi 2027 (May)
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates confirmed. Run it as part of
+  the Bilievent programme: https://roi.bilievent.com/calendar.html Source:
+  https://www.big5constructsaudi.com/exhibit-may-2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:marble-stone-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270528
+SUMMARY:Marble & Stone Saudi Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:windows-doors-facades-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270528
+SUMMARY:Windows Doors & Facades Saudi Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:machinex-jeddah-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270603
+SUMMARY:Machinex Jeddah 2027
+LOCATION:Jeddah International Exhibition & Convention Center\, Jeddah\, Sa
+ udi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-3-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-arabia-coatings-show-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270603
+SUMMARY:Saudi Arabia Coatings Show 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-projects-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270603
+SUMMARY:Saudi Projects 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:jec-forum-middle-east-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270603
+SUMMARY:JEC Forum Middle East 2027
+LOCATION:Hilton Riyadh Hotel & Residences\, Riyadh\, Saudi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sea-expo-2027-saudi-entertainment-amusement@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+SUMMARY:SEA Expo 2027 (Saudi Entertainment & Amusement)
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Retail\, lifestyle & sport. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-paper-packaging-expo-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+SUMMARY:Saudi Paper & Packaging Expo 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-signage-labelling-expo-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+SUMMARY:Saudi Signage & Labelling Expo 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:global-infrastructure-expo-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270611
+SUMMARY:Global Infrastructure Expo 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-warehousing-logistics-expo-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270611
+SUMMARY:Saudi Warehousing & Logistics Expo 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_city-
+ Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:smart-cities-saudi-expo-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270611
+SUMMARY:Smart Cities Saudi Expo 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Technology\, AI & security. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fsb-sports-show-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270616
+SUMMARY:FSB Sports Show Riyadh 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Retail\, lifestyle & sport. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:beautyworld-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270624
+SUMMARY:Beautyworld Saudi Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Retail\, lifestyle & sport. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:smart-cities-mobility-ksa-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270624
+SUMMARY:Smart Cities & Mobility KSA 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_city-
+ Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:sadex-2027-drones@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270701
+SUMMARY:SADEX 2027 (drones)
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_city-
+ Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:tct-plus-middle-east-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270905
+SUMMARY:TCT Plus Middle East 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Healthcare & pharma. Dates to confirm with the organiser. Run 
+ it as part of the Bilievent programme: https://roi.bilievent.com/calendar
+ .html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_city-Pr
+ ofessional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lift-city-expo-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270910
+SUMMARY:Lift City Expo Riyadh 2027
+LOCATION:The Arena Riyadh\, Riyadh\, Saudi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hotel-hospitality-expo-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270914
+SUMMARY:Hotel & Hospitality Expo Saudi Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Food\, agriculture & hospitality. Dates to confirm with the or
+ ganiser. Run it as part of the Bilievent programme: https://roi.bilievent
+ .com/calendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabi
+ a-all_city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:index-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270914
+SUMMARY:INDEX Saudi Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-4-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:big-5-construct-saudi-2027-september@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270923
+SUMMARY:Big 5 Construct Saudi 2027 (September)
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates confirmed. Run it as part of
+  the Bilievent programme: https://roi.bilievent.com/calendar.html Source:
+  https://www.big5constructsaudi.com/exhibit-may-2027/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fm-clean-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270923
+SUMMARY:FM & Clean Saudi Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hvacr-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270923
+SUMMARY:HVACR Saudi Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-wood-expo-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270922
+SUMMARY:Saudi Wood Expo 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fastmarkets-international-aluminium-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270923
+SUMMARY:Fastmarkets International Aluminium 2027
+LOCATION:Riyadh\, Saudi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-fashion-tex-expo-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20271001
+SUMMARY:Saudi Fashion & Tex Expo 2027
+LOCATION:Jeddah Center for Exhibitions & Events\, Jeddah\, Saudi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fibo-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271009
+SUMMARY:FIBO Arabia 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Retail\, lifestyle & sport. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:connected-world-ksa-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271010
+SUMMARY:Connected World KSA 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Technology\, AI & security. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hyperscale-live-ksa-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271010
+SUMMARY:Hyperscale Live KSA 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Technology\, AI & security. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-agriculture-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271022
+SUMMARY:Saudi Agriculture 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Food\, agriculture & hospitality. Dates to confirm with the or
+ ganiser. Run it as part of the Bilievent programme: https://roi.bilievent
+ .com/calendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabi
+ a-all_city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:voyager-2027-maritime@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271022
+SUMMARY:VOYAGER 2027 (maritime)
+LOCATION:Jeddah Superdome\, Jeddah\, Saudi Arabia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_city-
+ Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:global-health-exhibition-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271029
+SUMMARY:Global Health Exhibition 2027
+LOCATION:Riyadh Exhibition & Convention Center\, Malham\, Riyadh\, Saudi A
+ rabia
+DESCRIPTION:Healthcare & pharma. Dates to confirm with the organiser. Run 
+ it as part of the Bilievent programme: https://roi.bilievent.com/calendar
+ .html Source: https://www.showsbee.com/fairs/104573-Global-Health-Saudi-2
+ 027.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-build-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271105
+SUMMARY:Saudi Build 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-elenex-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271105
+SUMMARY:Saudi Elenex 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Energy\, water & mining. Dates to confirm with the organiser. 
+ Run it as part of the Bilievent programme: https://roi.bilievent.com/cale
+ ndar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_cit
+ y-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:climatech-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271110
+SUMMARY:Climatech 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Energy\, water & mining. Dates to confirm with the organiser. 
+ Run it as part of the Bilievent programme: https://roi.bilievent.com/cale
+ ndar.html Source: https://www.showsbee.com/shows-0-6-Saudi_Arabia-all_cit
+ y-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:saudi-international-rail-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271109
+SUMMARY:Saudi International Rail 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.showsbee.com/shows-0-5-Saudi_Arabia-all_city-
+ Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:solar-storage-live-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271110
+SUMMARY:Solar & Storage Live Riyadh 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Energy\, water & mining. Dates to confirm with the organiser. 
+ Run it as part of the Bilievent programme: https://roi.bilievent.com/cale
+ ndar.html Source: https://www.showsbee.com/shows-0-6-Saudi_Arabia-all_cit
+ y-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:highways-ksa-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271116
+SUMMARY:Highways KSA 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://www.showsbee.com/shows-0-6-Saudi_Arabia-all_
+ city-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:move-riyadh-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271116
+SUMMARY:MOVE Riyadh 2027
+LOCATION:Riyadh Front Exhibition & Conference Center\, Riyadh\, Saudi Arab
+ ia
+DESCRIPTION:Transport & logistics. Dates to confirm with the organiser. Ru
+ n it as part of the Bilievent programme: https://roi.bilievent.com/calend
+ ar.html Source: https://www.showsbee.com/shows-0-6-Saudi_Arabia-all_city-
+ Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cityscape-global-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271115
+DTEND;VALUE=DATE:20271119
+SUMMARY:Cityscape Global 2027
+LOCATION:Riyadh Exhibition & Convention Center\, Malham\, Riyadh\, Saudi A
+ rabia
+DESCRIPTION:Construction & real estate. Dates to confirm with the organise
+ r. Run it as part of the Bilievent programme: https://roi.bilievent.com/c
+ alendar.html Source: https://tradearabia.com/News/488603/Top-real-estate-
+ event-Cityscape-Global-postponed-to-February
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:industrial-transformation-saudi-arabia-2027@roi.bilievent.com
+DTSTAMP:20261114T223223Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271202
+SUMMARY:Industrial Transformation Saudi Arabia 2027
+LOCATION:Riyadh International Convention & Exhibition Center\, Riyadh\, Sa
+ udi Arabia
+DESCRIPTION:Manufacturing & industry. Dates to confirm with the organiser.
+  Run it as part of the Bilievent programme: https://roi.bilievent.com/cal
+ endar.html Source: https://www.showsbee.com/shows-0-6-Saudi_Arabia-all_ci
+ ty-Professional_Shows.html
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
