@@ -1,0 +1,11 @@
+services:
+  roi:
+    build: .
+    restart: unless-stopped
+    ports: ["127.0.0.1:8080:8080"]
+    volumes: ["roi-data:/data"]
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+      - ALLOW_SIGNUP=0
+volumes:
+  roi-data:

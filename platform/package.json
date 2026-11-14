@@ -1,0 +1,15 @@
+{
+  "name": "bilievent-roi-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilievent ROI: exhibition lead capture, AI qualification, ROI attribution and improvement engine",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "engines": { "node": ">=22.5" },
+  "scripts": {
+    "start": "node --no-warnings src/server.js",
+    "seed": "node --no-warnings src/seed.js",
+    "test": "node --no-warnings --test test/*.test.js"
+  },
+  "dependencies": { "express": "^5.1.0" }
+}
