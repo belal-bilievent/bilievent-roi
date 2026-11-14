@@ -1,9 +1,0 @@
-{
-  "name": "Bilievent ROI",
-  "short_name": "Bilievent ROI",
-  "start_url": "/#/capture",
-  "display": "standalone",
-  "background_color": "#0B0C0F",
-  "theme_color": "#0B0C0F",
-  "icons": [{ "src": "/assets/img/bilievent_emblem_black.svg", "sizes": "any", "type": "image/svg+xml" }]
-}
